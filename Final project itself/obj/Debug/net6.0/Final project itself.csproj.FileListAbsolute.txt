@@ -1,0 +1,15 @@
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\bin\Debug\net6.0\Final project itself.exe
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\bin\Debug\net6.0\Final project itself.deps.json
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\bin\Debug\net6.0\Final project itself.runtimeconfig.json
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\bin\Debug\net6.0\Final project itself.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\bin\Debug\net6.0\Final project itself.pdb
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\Final project itself.csproj.AssemblyReference.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\Final project itself.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\Final project itself.AssemblyInfoInputs.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\Final project itself.AssemblyInfo.cs
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\Final project itself.csproj.CoreCompileInputs.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\Final project itself.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\refint\Final project itself.dll
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\Final project itself.pdb
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\Final project itself.genruntimeconfig.cache
+C:\Users\helen\OneDrive\Рабочий стол\GeekBrains\Итоговое задание 1 четверти\Project\Final project itself\obj\Debug\net6.0\ref\Final project itself.dll
